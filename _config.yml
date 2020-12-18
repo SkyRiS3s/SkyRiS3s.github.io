@@ -110,7 +110,7 @@ footer-link-col: "#9FAEBA"
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
-navbar-img: "/images/cover_picture.jpg" #test
+#navbar-img: "/images/cover_picture.jpg" #test
 #footer-img: "/images/cover_picture.jpg"
 #page-img: "/images/cover_picture.jpg"
 
