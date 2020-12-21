@@ -30,7 +30,7 @@ Let's begin with a first and broad analysis of the data. What is the row number 
 </div>
 
 <p style='text-align: justify;'> 
-This figure shows us the annual average number of arrests from 2010 to 2019, including the period before and after the movement. And indeed, we can already see that there seems to be racial inequalities. But, we certainly need to take into account the population in each race. If there were 5 times more African American in L.A. it would be logic that they’d be 5 times more arrested ! So, for the 3 main races: Black, Hispanic and White, let's scale these numbers to obtain the annual number of arrests per person, i.e. the ratio of people within a population getting arrested.
+This figure shows us the annual average number of arrests from 2010 to 2019, including the period before and after the movement. And indeed, we can already see that there seems to be racial inequalities. But, we certainly need to take into account the population in each race. If there were 5 times more African American in L.A. it would be reasonable that they’d be 5 times more arrested ! So, for the 3 main races: Black, Hispanic and White, let's scale these numbers to obtain the annual number of arrests per person, i.e. the ratio of people within a population getting arrested.
 </p>
 
 <div align="center">
